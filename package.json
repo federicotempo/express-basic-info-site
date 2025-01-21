@@ -1,0 +1,15 @@
+{
+  "name": "express-basic-info-site",
+  "version": "1.0.0",
+  "description": "This project is a basic informational website built with Node.js as part of a practical exercise to apply foundational knowledge. The site includes the following pages:",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
